@@ -1,0 +1,11 @@
+status=COMPLETE
+year=2016
+filetype=TRACT
+statefp=32
+source_path=C:\Users\wilsonschutterj\data\geojson\2016\TRACT\tl_2016_32_tract.parquet
+features=687
+tiles_considered=647
+tiles_written=483
+tiles_skipped_existing=12
+min_zoom=0
+max_zoom=10
