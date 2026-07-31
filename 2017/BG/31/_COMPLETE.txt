@@ -1,0 +1,11 @@
+status=COMPLETE
+year=2017
+filetype=BG
+statefp=31
+source_path=C:\Users\wilsonschutterj\data\geojson\2017\BG\tl_2017_31_bg.parquet
+features=1633
+tiles_considered=424
+tiles_written=355
+tiles_skipped_existing=13
+min_zoom=0
+max_zoom=10
